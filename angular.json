@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ExamenOMARMONTES"
+    }
+  },
+  "defaultProject": "ExamenOMARMONTES",
+  "cli": {
+    "analytics": "f93fc835-db45-4911-98e2-9bc8a60e4e3f"
+  }
 }
